@@ -1,3 +1,12 @@
+## smart zegarki
+## protetyka
+## ogólnie IOT
+
+## misc 
+
+
+
+
 Aggarwal, Ambika, Pooja Joshi, Ashutosh Bhatt, Kapil Joshi, Mayurika Joshi, i Mansi Mahur. „A Novel Approach of Human Stress Rate Monitoring System in Smart Society 5.0”. W _2024 International Conference on Computing, Sciences and Communications (ICCSC)_, 1–6. Ghaziabad, India: IEEE, 2024. [https://doi.org/10.1109/ICCSC62048.2024.10830296](https://doi.org/10.1109/ICCSC62048.2024.10830296).
 
 Akdemir, Bilgehan, Hafiz Faheem Shahid, Mikael A. K. Brix, Juho Lääkkölä, Johirul Islam, Tanesh Kumar, Jarmo Reponen, Miika T. Nieminen, i Erkki Harjula. „From Technical Prerequisites to Improved Care: Distributed Edge AI for Tomographic Imaging”. _IEEE Access_ 13 (2025): 14317–43. [https://doi.org/10.1109/ACCESS.2025.3530297](https://doi.org/10.1109/ACCESS.2025.3530297).
